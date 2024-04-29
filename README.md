@@ -1,16 +1,15 @@
-# first_app
+# First App
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+First App es una aplicación de ejemplo creada con Flutter. Esta aplicación demuestra cómo configurar una interfaz de usuario básica con un diseño atractivo y cómo personalizar la barra de navegación y la barra de estado del sistema android.
 
-This project is a starting point for a Flutter application.
+## Características
 
-A few resources to get you started if this is your first Flutter project:
+- Diseño de interfaz de usuario con un contenedor central que muestra un mensaje de "Hola Mundo".
+- Personalización de la barra de navegación y la barra de estado del sistema para que sean transparentes.
+- Uso de sombras y gradientes para mejorar la estética visual de la aplicación.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Uso
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La aplicación muestra un mensaje de `"Hola Mundo"` en el centro de la pantalla. La barra de navegación y la barra de estado del sistema están personalizadas para ser transparentes, lo que permite que la interfaz de usuario se extienda hasta el borde de la pantalla.
