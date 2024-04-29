@@ -12,4 +12,4 @@ First App es una aplicación de ejemplo creada con Flutter. Esta aplicación dem
 
 ## Uso
 
-La aplicación muestra un mensaje de `"Hola Mundo"` en el centro de la pantalla. La barra de navegación y la barra de estado del sistema están personalizadas para ser transparentes, lo que permite que la interfaz de usuario se extienda hasta el borde de la pantalla.
+La aplicación muestra un mensaje de `"Hola Mundo"` en el centro de la pantalla. La barra de navegación y la barra de estado del sistema android están personalizadas para ser transparentes, lo que permite que la interfaz de usuario se extienda hasta el borde de la pantalla.
